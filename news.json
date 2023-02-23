@@ -1,0 +1,25 @@
+{
+		"id": "50",
+		"classname": "国内"
+	},
+	{
+		"id": "51",
+		"classname": "国际"
+	},
+	{
+		"id": "52",
+		"classname": "体育"
+	},
+	{
+		"id": "53",
+		"classname": "科技"
+	},
+	{
+		"id": "54",
+		"classname": "时尚"
+	},
+	{
+		"id": "55",
+		"classname": "游戏"
+	}
+]
